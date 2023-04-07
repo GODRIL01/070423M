@@ -710,8 +710,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=h
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1680460018~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=b2b19c7f677bae235e742e89b2873a35a3d13ca87f0c4871787da2755df7b81a/vp9/205_stream.mpd
 
-#EXTINF:0 tvg-id="TenSports.in" group-title="Sports",Sony Ten 1
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
 
 
 
