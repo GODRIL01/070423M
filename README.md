@@ -713,8 +713,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1680460018~acl=/vp9/205_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423 " group-title="Sports", BRI LIGA SERVER 2
-#EXTVLCOPT:http-user-agent=user-agent: Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-accept-encoding: gzip
-https://production-drm-vidio-com:event-8.akamaized.net/out/v1/5fbe1929905440498f6eb7504c4028f/index.mpd 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd 
 
 
