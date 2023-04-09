@@ -214,7 +214,7 @@ https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="Entertainment.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/76/MNC_Entertainment.svg/200px-MNC_Entertainment.svg.png " group-title="Entertainment",MNC Entertainment
+#EXTINF:0 tvg-id="Entertainment.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="Entertainment",MNC Entertainment
 https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
