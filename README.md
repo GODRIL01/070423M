@@ -60,6 +60,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://tvnid.x10.mx/1/master-2.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8
 
