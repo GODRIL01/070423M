@@ -272,8 +272,20 @@ http://tvgo.my.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:0 tvg-id="ShanghaiDragonTV.Id" tvg-logo="https://www.tvchinese.net/uploads/tv/dongfang.jpg " group-title="Entertainment",Dragon TV
 https://anevia114.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+#EXTINF:0 tvg-id="OKEY.Id" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg " group-title="Entertainment",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8?id=3
+
+
+
+
+
 
 *********************************************Kids************************************************************************************
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="KidsTV.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/kids.png" group-title="Kids",Kids TV
